@@ -44,7 +44,7 @@ comments: false
 <hr class='hr-line'>
 ### Android Application on University Activities
 
-It's a mobile application for uni students to publish and view activities. I developed it from a sketch in 2015.   
+It's a mobile application for uni students to publish and view activities. I developed it from a scratch in 2015.   
 Since the university is a large community where many activities happen all days hosted by different colleges. Sometimes, students may miss some excellent activities. The aim of this app is to help students learn newest activities happening in school.   
 The mechanism of this app is quite similar to eventbrite that students can publish and join the activities via the app.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DmQGT3IYczw" frameborder="0" ></iframe>
