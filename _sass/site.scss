@@ -70,6 +70,7 @@ body {
 	align-items: center;
 }
 .container {
+	position:relative;
 	width: 36rem;
 	max-width: 550px;
 	padding-right: 15px;
@@ -88,6 +89,11 @@ body {
 	@media #{$medium} {
 		width: 80%;
 	}
+}
+.nabi {
+	position: absolute;
+	top: -37%;
+	right: -10%;
 }
 .row {
 	margin-top: 15px;
