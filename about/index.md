@@ -41,15 +41,57 @@ comments: false
 
 
 ## Projects
-
-### Android Application on University Activities
 <hr class='hr-line'>
+### Android Application on University Activities
+
 It's a mobile application for uni students to publish and view activities. I developed it from a sketch in 2015.   
 Since the university is a large community where many activities happen all days hosted by different colleges. Sometimes, students may miss some excellent activities. The aim of this app is to help students learn newest activities happening in school.   
 The mechanism of this app is quite similar to eventbrite that students can publish and join the activities via the app.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DmQGT3IYczw" frameborder="0" ></iframe>
+<br>
+<hr class='hr-line'>
+### Spinify Support System 
+#### Spinify
+Spinify is a software project aimed to promote and build an engaging, successful work environment. It provides leaderboards for companies based on what is relevant to them. It gamifies these leaderboards, meaning employees can level up and earn achievements due to their work. So far, the software has gotten good reviews at the companies using it http://www.capterra.com/p/155500/Spinify/.
+#### Spinify Support System
+My role in the project is to develop Spinify Support System (RootSpinify), the administration platform for use by employees at Spinify. They should be able to look up organizations, their users and their leader boards making any administrative adjustments they deem necessary as well as being able to see the progress companies have made and what they focus on.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2jbTNkoYjXE" frameborder="0" ></iframe>
+<br>
+<hr class='hr-line'>
 
-<iframe width="560" height="315" src="http://youtu.be/DmQGT3IYczw" frameborder="0"> </iframe>
-![Demo](http://youtu.be/DmQGT3IYczw)
+## Design works
+
+<div class="row">
+	<div class="column" style="width:50%"><img src="spinify.jpg" style="width:450px;height: 500px;padding: 10px"></div>
+	<div class="column" style="width:50%">
+		<img src="99atar_flyer.jpg" style="width:450px;height: 500px;padding:10px">
+	</div>
+</div>
+<br>
+<hr class='hr-line'>
+
+## Education
+
+**2016.2 - 2017.11 Australia National University**   
+**Master of Computing, Software Engineering Specialisation**   
+
+<br>
+<hr class='hr-line'>
+## About Me
+
+I am a passionate and hard-working person. I like reading, badminton and games.   
+Also I am a quick learn who is always eager to learn new technics.   
+* Strong programming skills including **Java, C/C++, Android programming, JavaScript, HTML/CSS**.   
+* Experience in front-end development using **React.js + Redux**. Excellent in project version control via **GIT**.   
+* Experience in **Photoshop**, designed many flyers and posters.   
+* Strong **communication** skills through my experience in customer service.   
+
+<br>
+<hr class='hr-line'>
+
+
+
+
 
 
 [Contact Me](mailto:naro.an3@gmail.com){: .btn}
