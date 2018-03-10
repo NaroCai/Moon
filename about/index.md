@@ -47,7 +47,7 @@ comments: false
 It's a mobile application for uni students to publish and view activities. I developed it from a scratch in 2015.   
 Since the university is a large community where many activities happen all days hosted by different colleges. Sometimes, students may miss some excellent activities. The aim of this app is to help students learn newest activities happening in school.   
 The mechanism of this app is quite similar to eventbrite that students can publish and join the activities via the app.
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzQ1MzAxNTk1Ng==' frameborder=0 'allowfullscreen'></iframe>
+<embed src='http://player.youku.com/player.php/sid/XMzQ1MzAxNTk1Ng==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 <br>
 <hr class='hr-line'>
 ### Spinify Support System 
@@ -63,7 +63,7 @@ My role in the project is to develop Spinify Support System (RootSpinify), the a
 #### Personal Project
 I have worked for a part-time job in Easyway for almost one year. This little program is a P2P application based on wechat platform. It is used for delivering orders(milk teas) for Easyway milk tea shop(Belconnen Westfield store). Users can order drinks(also can specify types and toppings they want), take and deliver orders for other users and comment on orders.
 I used IDE and SDK provided by wechat. Meanwhile, I used SpringBoots and Mybatis to make a local test server.
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzQ1MzAyMjc4OA==' frameborder=0 'allowfullscreen'></iframe>
+<iframe height="498" width="510" src="http://player.youku.com/embed/XMzQ1MzAyMjc4OA==" frameborder="0" ></iframe>
 <br>
 <hr class='hr-line'>
 
@@ -101,14 +101,6 @@ Also I am a quick learn who is always eager to learn new technics.
 
 <br>
 <hr class='hr-line'>
-
-## 关于我
-
-我是一个认真努力的人，有上进心和责任心。作为一个女生，我从小就对计算机有很浓厚的兴趣（游戏和编程方面）。我在知乎上有一篇关于我从小玩游戏的经历有9000+的赞。   
-在工作中我是一个很善于和别人沟通协调的人，我比较活泼，喜欢积极和放松的氛围，会主动和别人交流。同时我的自主性也很强，我可以胜任个人的任务。我学习能力很强，android端和前端的知识很多都是靠自学，平时我也会用python做一些小的应用，比如爬取一些购物网站的数据，爬取电影信息随机推荐电影等。   
-我有绘画功底，平时喜欢画画，photoshop使用也很熟练，在以前的工作中，我经常设计海报和排版，对于个人的审美有自信。
-作为女生，我了解所有精致女孩的想法，我了解时尚也喜欢美妆。作为一个程序员，我热爱编程，热衷于研究新的技术和编程思想。我致力于做程序员中最精致的，精致女孩中最会编程的。Marissa Mayer是我的偶像和目标。   
-我是一个有趣的人，爱好广泛，我喜欢玩狼人杀，玩桥牌德州扑克，也喜欢拼图看书打羽毛球。   
 
 
 
