@@ -47,7 +47,6 @@ comments: false
 It's a mobile application for uni students to publish and view activities. I developed it from a scratch in 2015.   
 Since the university is a large community where many activities happen all days hosted by different colleges. Sometimes, students may miss some excellent activities. The aim of this app is to help students learn newest activities happening in school.   
 The mechanism of this app is quite similar to eventbrite that students can publish and join the activities via the app.
-<embed src='http://player.youku.com/player.php/sid/XMzQ1MzAxNTk1Ng==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 <br>
 <hr class='hr-line'>
 ### Spinify Support System 
@@ -55,7 +54,7 @@ The mechanism of this app is quite similar to eventbrite that students can publi
 Spinify is a software project aimed to promote and build an engaging, successful work environment. It provides leaderboards for companies based on what is relevant to them. It gamifies these leaderboards, meaning employees can level up and earn achievements due to their work. So far, the software has gotten good reviews at the companies using it http://www.capterra.com/p/155500/Spinify/.
 #### Spinify Support System
 My role in the project is to develop Spinify Support System (RootSpinify), the administration platform for use by employees at Spinify. They should be able to look up organizations, their users and their leader boards making any administrative adjustments they deem necessary as well as being able to see the progress companies have made and what they focus on.
-<iframe height="498" width="510" src="http://tv.sohu.com/upload/static/share/share_play.html#98804622_330392510_0_9001_0" frameborder="0" ></iframe>
+<iframe height="315" width="560" src="http://tv.sohu.com/upload/static/share/share_play.html#98804622_330392510_0_9001_0" frameborder="0" auto="0" ></iframe>
 
 
 <br>
@@ -64,7 +63,9 @@ My role in the project is to develop Spinify Support System (RootSpinify), the a
 #### Personal Project
 I have worked for a part-time job in Easyway for almost one year. This little program is a P2P application based on wechat platform. It is used for delivering orders(milk teas) for Easyway milk tea shop(Belconnen Westfield store). Users can order drinks(also can specify types and toppings they want), take and deliver orders for other users and comment on orders.
 I used IDE and SDK provided by wechat. Meanwhile, I used SpringBoots and Mybatis to make a local test server.
-<iframe height="498" width="510" src="http://player.youku.com/embed/XMzQ1MzAyMjc4OA" frameborder="0" ></iframe>
+<iframe width="560" height="315" src="http://tv.sohu.com/upload/static/share/share_play.html#90268916_9365222_0_9001_0" frameborder="0" auto="0"></iframe>
+
+
 <br>
 <hr class='hr-line'>
 
