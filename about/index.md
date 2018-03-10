@@ -112,9 +112,5 @@ Also I am a quick learn who is always eager to learn new technics.
 <br>
 <br>
 <hr class="hr-line">
-<p style="text-align: center;">Copyright 2018 Naro Cai. Page View: <span id="busuanzi_container_site_uv">
-  <span id="busuanzi_value_site_uv"></span>
-</span></p>
 
-<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
