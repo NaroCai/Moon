@@ -55,7 +55,8 @@ The mechanism of this app is quite similar to eventbrite that students can publi
 Spinify is a software project aimed to promote and build an engaging, successful work environment. It provides leaderboards for companies based on what is relevant to them. It gamifies these leaderboards, meaning employees can level up and earn achievements due to their work. So far, the software has gotten good reviews at the companies using it http://www.capterra.com/p/155500/Spinify/.
 #### Spinify Support System
 My role in the project is to develop Spinify Support System (RootSpinify), the administration platform for use by employees at Spinify. They should be able to look up organizations, their users and their leader boards making any administrative adjustments they deem necessary as well as being able to see the progress companies have made and what they focus on.
-<iframe height="498" width="510" src="http://player.youku.com/embed/XMzQ1MTc4NzcwMA==" frameborder="0" ></iframe>
+<iframe height="498" width="510" src="http://tv.sohu.com/upload/static/share/share_play.html#98804622_330392510_0_9001_0" frameborder="0" ></iframe>
+
 
 <br>
 <hr class='hr-line'>
@@ -63,7 +64,7 @@ My role in the project is to develop Spinify Support System (RootSpinify), the a
 #### Personal Project
 I have worked for a part-time job in Easyway for almost one year. This little program is a P2P application based on wechat platform. It is used for delivering orders(milk teas) for Easyway milk tea shop(Belconnen Westfield store). Users can order drinks(also can specify types and toppings they want), take and deliver orders for other users and comment on orders.
 I used IDE and SDK provided by wechat. Meanwhile, I used SpringBoots and Mybatis to make a local test server.
-<iframe height="498" width="510" src="http://player.youku.com/embed/XMzQ1MzAyMjc4OA==" frameborder="0" ></iframe>
+<iframe height="498" width="510" src="http://player.youku.com/embed/XMzQ1MzAyMjc4OA" frameborder="0" ></iframe>
 <br>
 <hr class='hr-line'>
 
