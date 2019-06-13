@@ -1,12 +1,21 @@
-# simple plugin
+---
+layout: post
+title: "从无到有制作一个简单的vscode插件"
+date: 2019-06-05
+excerpt: "尝试自己写一个vscode插件"
+tags: [学习]
+comments: false
+---
 
-从无到有制作一个简单的vscode插件
+
+
+# 从无到有制作一个简单的vscode插件
 
 之前完全没有写过vscode插件，正好觉得有的时候更改大小写有一些麻烦，想写一个选中文字更改大小写的插件，本文谨记录学习过程。
 
 入门的vscode官方有非常详细的视频傻瓜教程，非常方便。
 
-[https://code.visualstudio.com/api/get-started/your-first-extension](https://code.visualstudio.com/api/get-started/your-first-extension)
+[官网入门教程](https://code.visualstudio.com/api/get-started/your-first-extension)
 
 ### 创建环境
 
@@ -22,7 +31,7 @@ vscode提供的generator分为好几种，包括extension, theme, color snippets
 
 然后选择一下项目的配置项，后续也可以更改。
 
-![](./assets/img/-33590dc8-298c-4266-b134-9b5d219ef4f0.png)
+![](../assets/img/-33590dc8-298c-4266-b134-9b5d219ef4f0.png)
 
 不知道为什么yarn装不成功，改用了npm
 
@@ -40,7 +49,7 @@ vscode提供的generator分为好几种，包括extension, theme, color snippets
 
 看起来很简单，只需要把selections遍历一遍，然后把相应的文字改掉就可以了。
 
-![](./assets/img/-3e384302-a9f6-492c-a87a-74ac9367f217.png)
+![](../assets/img/-3e384302-a9f6-492c-a87a-74ac9367f217.png)
 
 但是失败了，只有第一个选中的会被替换，其他不会。逐个打印了一下，发现是可以获取到的。
 
@@ -52,7 +61,7 @@ vscode提供的generator分为好几种，包括extension, theme, color snippets
 
 现在就要给我的功能添加快捷键啦，在package.json中contributes添加字段keybindings。
 
-![](./assets/img/shortcuts-bd95203b-43cb-4ad9-b743-031992cb1874.png)
+![](../assets/img/shortcuts-bd95203b-43cb-4ad9-b743-031992cb1874.png)
 
 快捷键就添加完成啦。
 
@@ -62,11 +71,11 @@ vscode提供的generator分为好几种，包括extension, theme, color snippets
 
 注册microsoft marketplace然后创建publisher然后上传好你打的包就成功啦。会提示你审核，我这个轻量的很快就通过了
 
-![](./assets/img/_2019-06-11_16-d65d89e3-2605-438f-bf99-f79117a63790.27.52.png)
+![](../assets/img/_2019-06-11_16-d65d89e3-2605-438f-bf99-f79117a63790.27.52.png)
 
-![](./assets/img/_2019-06-11_16-4bc6c66c-73ec-4a82-926b-3b6a157d6e36.30.24.png)
+![](../assets/img/_2019-06-11_16-4bc6c66c-73ec-4a82-926b-3b6a157d6e36.30.24.png)
 
-![](./assets/img/_2019-06-11_16-ee160ba9-5286-47ce-a435-5ac252a6946d.29.39.png)
+![](../assets/img/_2019-06-11_16-ee160ba9-5286-47ce-a435-5ac252a6946d.29.39.png)
 
 应用商店也可以搜索到啦。
 
