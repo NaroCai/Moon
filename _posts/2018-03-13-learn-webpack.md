@@ -33,7 +33,7 @@ output:{
 }
 ```
 module.rules: 定义编译处理文件的规则和工具依赖
-```
+```javascript
 module:{
 		rules:[
 			{

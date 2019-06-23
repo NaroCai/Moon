@@ -7,8 +7,6 @@ tags: [学习]
 comments: false
 ---
 
-
-
 # 从无到有制作一个简单的vscode插件
 
 之前完全没有写过vscode插件，正好觉得有的时候更改大小写有一些麻烦，想写一个选中文字更改大小写的插件，本文谨记录学习过程。
@@ -71,11 +69,11 @@ vscode提供的generator分为好几种，包括extension, theme, color snippets
 
 注册microsoft marketplace然后创建publisher然后上传好你打的包就成功啦。会提示你审核，我这个轻量的很快就通过了
 
-![](../assets/img/_2019-06-11_16-d65d89e3-2605-438f-bf99-f79117a63790.27.52.png)
+![](../assets/img/vscode_extension1.png)
 
-![](../assets/img/_2019-06-11_16-4bc6c66c-73ec-4a82-926b-3b6a157d6e36.30.24.png)
+![](../assets/img/vscode_extension2.png)
 
-![](../assets/img/_2019-06-11_16-ee160ba9-5286-47ce-a435-5ac252a6946d.29.39.png)
+![](../assets/img/vscode_extension3.png)
 
 应用商店也可以搜索到啦。
 
